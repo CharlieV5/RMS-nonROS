@@ -1,3 +1,7 @@
+RMS-nonROS: remove the ROS dependencies frome RMS
+
+The original README is below
+***
 # RMS: Redundancy-Minimizing Point Cloud Sampling
 
 [![RMS](./fig/snapshot.jpg)](https://www.youtube.com/watch?v=Y9ZlRrX1UBY)
